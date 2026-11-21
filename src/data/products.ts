@@ -71,7 +71,7 @@ export const PRODUCTS: Product[] = [
     price: 31.0,
     tag: "Organic",
     image:
-      "https://images.unsplash.com/photo-1570194065650-d99fb4b38b15?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=800&q=80",
   },
   {
     id: 8,

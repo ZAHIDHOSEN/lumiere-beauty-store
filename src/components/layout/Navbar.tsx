@@ -10,7 +10,7 @@ export function Navbar({ searchQuery, onSearchChange }: NavbarProps) {
     <header className="sticky top-0 z-40 border-b border-[#1C1917]/10 bg-[#FAF8F5]/90 backdrop-blur">
       <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-4 px-4 py-4 sm:px-6 lg:px-8">
         <a href="#top" className="text-xl font-bold tracking-[0.2em] text-[#1C1917]">
-          VÉLOURA
+          LUMIÈRE
         </a>
 
         <nav className="hidden gap-7 text-sm font-medium text-[#44403C] md:flex">
